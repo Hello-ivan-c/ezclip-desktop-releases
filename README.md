@@ -7,4 +7,4 @@ Public download host for the **Eziclip Studio** Mac and Windows apps.
 
 Download the latest: **[Releases](../../releases/latest)**
 
-The app is a thin shell around the web studio at [test.eziclip.com/studio](https://test.eziclip.com/studio).
+The app is a thin shell around the web studio at [test.eziclip.com/studio](https://eziclip.com/studio).
